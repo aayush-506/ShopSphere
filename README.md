@@ -1,12 +1,17 @@
-# React + Vite
+# 🛠️ About ShopSphere Admin Panel
+The ShopSphere Admin Panel is a role-protected interface designed for administrators to manage the e-commerce platform efficiently. It provides tools to monitor store performance, manage product listings, and handle customer orders in real time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This admin panel is seamlessly integrated with the ShopSphere backend and supports secure authentication, ensuring that only authorized users can access sensitive data and actions.
 
-Currently, two official plugins are available:
+# 🧩 Admin Features
+- Admin-only access via role-based authentication
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add, edit, and delete product listings
 
-## Expanding the ESLint configuration
+- View and manage all customer orders
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Monitor store activity through a stats dashboard
+
+- Responsive design with clean UI for fast navigation
+
+- [Coming Soon] Analytics for sales trends and payment tracking
